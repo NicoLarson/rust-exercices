@@ -1,51 +1,281 @@
 # Rust - exercices
 
-- [x] Convertisseur temperatures Fahrenheit et Celsius
-- [ ] Générer n [la suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci)
-- [ ] Initialisation d'un tableau
+## Array
 
-## Exercise to Book Chapter mapping
-[rustlings](https://github.com/rust-lang/rustlings/tree/main/exercises)
+- [x] Two Sum
+- [x] Best Time to Buy and Sell Stock
+- [x] Contains Duplicate
+- [x] Product of Array Except Self
+- [ ] Maximum Subarray
+- [ ] Maximum Product Subarray
+- [ ] Find Minimum in Rotated Sorted Array
+- [ ] Search in Rotated Sorted Array
+- [ ] 3Sum
+- [ ] Container With Most Water
+- [ ] Sliding Window Maximum
 
-| Exercise               | Book Chapter |
-|------------------------|--------------|
-| variables              | §3.1         |
-| functions              | §3.3         |
-| if                     | §3.5         |
-| move_semantics         | §4.1         |
-| primitive_types        | §4.3         |
-| structs                | §5.1         |
-| enums                  | §6           |
-| modules                | §7           |
-| collections            | §8.1, §8.3   |
-| strings                | §8.2         |
-| error_handling         | §9           |
-| generics               | §10          |
-| option                 | §10.1        |
-| traits                 | §10.2        |
-| tests                  | §11.1        |
-| standard_library_types | §13.2        |
-| threads                | §16.1        |
-| macros                 | §19.6        |
-| clippy                 | n/a          |
-| conversions            | n/a          |
-|------------------------|--------------|
+## Basic Algorithme
 
-- [ ] Flow of Control - if/else, for, and others.
-- [ ] Functions - Learn about Methods, Closures and High Order Functions.
-- [ ] Modules - Organize code using modules
-- [ ] Crates - A crate is a compilation unit in Rust. Learn to create a library.
-- [ ] Cargo - Go through some basic features of the official Rust package management tool.
-- [ ] Attributes - An attribute is metadata applied to some module, crate or item.
-- [ ] Generics - Learn about writing a function or data type which can work for multiple types of arguments.
-- [ ] Scoping rules - Scopes play an important part in ownership, borrowing, and lifetimes.
-- [ ] Traits - A trait is a collection of methods defined for an unknown type: Self
-- [ ] Macros
-- [ ] Error handling - Learn Rust way of handling failures.
-- [ ] Std library types - Learn about some custom types provided by std library.
-- [ ] Std misc - More custom types for file handling, threads.
-- [ ] Testing - All sorts of testing in Rust.
-- [ ] Unsafe Operations
-- [ ] Compatibility
-- [ ] Meta - Documentation, Benchmarking.
+- [x] Convert Celsius to Fahrenheit
+- [ ] Reverse a String
+- [ ] Factorialize a Number
+- [ ] Find the Longest Word in a String
+- [ ] Return Largest Numbers in Arrays
+- [ ] Confirm the Ending
+- [ ] Repeat a String Repeat a String
+- [ ] Truncate a String
+- [ ] Finders Keepers
+- [ ] Boo who
+- [ ] Title Case a Sentence
+- [ ] Slice and Splice
+- [ ] Falsy Bouncer
+- [ ] Where do I Belong
+- [ ] Mutations
+- [ ] Chunky Monkey
 
+## Algorithmes et Structure de données
+
+- [ ] Palindrome CheckerPassed
+- [ ] Roman Numeral ConverterPassed
+- [ ] Caesars CipherPassed
+- [ ] Telephone Number ValidatorPassed
+- [ ] Cash Register
+
+- [x] Sum "A+B"
+- [ ] Sum in Loop
+- [ ] Sums in Loop
+- [ ] Minimum of Two
+- [ ] Minimum of Three
+- [ ] Maximum of array
+- [ ] Rounding
+- [ ] Vowel Count
+- [ ] Sum of digits
+- [ ] Arithmetic Progression
+- [ ] Median of Three
+- [ ] Triangles
+- [ ] Body Mass Index
+- [ ] Weighted sum of digits
+- [ ] Average of an array
+- [ ] Dice Rolling
+- [ ] Reverse String
+- [ ] Array Checksum
+- [ ] Array Counters
+- [ ] Linear Function
+- [ ] Modulo and time difference
+- [ ] Collatz Sequence
+- [ ] Modular Calculator
+- [ ] Bubble Sort
+- [ ] Greatest Common Divisor
+- [ ] Square Root
+- [ ] Sort with Indexes
+- [ ] Bubble in Array
+- [ ] Palindromes
+- [ ] Rotate String
+- [ ] Pythagorean Theorem
+- [ ] Neumann's Random Generator
+- [ ] Fibonacci Sequence
+- [ ] Smoothing the Weather
+- [ ] Bicycle Race
+- [ ] Savings Calculator
+- [ ] Linear Congruential Generator
+- [ ] Josephus Problem
+- [ ] Double Dice Roll RU 3099 5.66
+- [ ] Matching Brackets ES RU 2946 5.75
+- [ ] Bit Count RU 2822 5.82
+- [ ] Caesar Shift Cipher SK 2772 5.85
+- [ ] Triangle Area 2714 5.89
+- [ ] Rock Paper Scissors 2700 5.90
+- [ ] Card Names 2617 5.95
+- [ ] Matching Words 2597 5.97
+- [ ] Two Printers ES RU 2386 6.11
+- [ ] Prime Numbers Generation RU 2343 6.14
+- [ ] Bulls and Cows 2334 6.15
+- [ ] Fool's Day 2014 SK 2253 6.21
+- [ ] Combinations Counting 2144 6.30
+- [ ] Blackjack Counting 2104 6.33
+- [ ] Quadratic Equation 1932 6.48
+- [ ] Parity Control RU 1897 6.51
+- [ ] Binary Search 1733 6.67
+- [ ] King and Queen 1731 6.67
+- [ ] Selection Sort 1645 6.76
+- [ ] Cards Shuffling ZH 1596 6.81
+- [ ] Mortgage Calculator ZH 1570 6.84
+- [ ] Tic-Tac-Toe ZH 1505 6.91
+- [ ] Integer Factorization ZH 1455 6.97
+- [ ] Fibonacci Divisibility 1446 6.98
+- [ ] Funny Words Generator 1302 7.16
+- [ ] Prime Ranges 1293 7.18
+- [ ] Share Price Volatility 1214 7.29
+- [ ] Yacht or Dice Poker 1188 7.32
+- [ ] Insertion Sort 1100 7.46
+- [ ] Tree Height Measurement 1091 7.47
+- [ ] Anagrams 1042 7.55
+- [ ] Flying Text Screensaver 1003 7.62
+- [ ] Tricky Printing 959 7.70
+- [ ] Code Guesser UA 940 7.73
+- [ ] Clock Hands 882 7.84
+- [ ] Duel Chances 852 7.90
+- [ ] Luhn Algorithm SK 826 7.95
+- [ ] Pythagorean Triples 825 7.96
+- [ ] Cloud Altitude Measurement 807 7.99
+- [ ] Hexagonal Grid 755 8.11
+- [ ] Variable Length Code 729 8.17
+- [ ] Convex Polygon Area 722 8.19
+- [ ] Summing Up 700 8.24
+- [ ] Girls and Pigs 677 8.30
+- [ ] Dungeons and Dragons Dice UA 673 8.31
+- [ ] Life is Simple 638 8.40
+- [ ] Paths in the Grid UA 621 8.45
+- [ ] Most Frequent Word 602 8.50
+- [ ] Rotation in 2D Space 602 8.50
+- [ ] Caesar Cipher Cracker 600 8.51
+- [ ] QuickSort 584 8.56
+- [ ] Azimuth at Treasure Island 579 8.57
+- [ ] Modular Exponentiation 571 8.59
+- [ ] Pitch and Notes 518 8.76
+- [ ] Sweet Harvest 508 8.80
+- [ ] Tree Builder 498 8.83
+- [ ] Point to Segment Distance 495 8.84
+- [ ] Static Web Page 484 8.88
+- [ ] Brainfuck Interpreter 483 8.89
+- [ ] Reverse Polish Notation 467 8.94
+- [ ] Basics of HTML 465 8.95
+- [ ] Simple Linear Regression 464 8.95
+- [ ] Game of 2048 440 9.05
+- [ ] Fibonacci Divisibility Advanced 424 9.11
+- [ ] Star Medals 412 9.16
+- [ ] Levenshtein Distance 411 9.16
+- [ ] Maze Pathfinder 408 9.18
+- [ ] Brain Fibo 395 9.23
+- [ ] Gradient Calculation 392 9.25
+- [ ] Instrument Tuner 372 9.34
+- [ ] Cycles Detection 353 9.43
+- [ ] Binary Heap 353 9.43
+- [ ] Extended Euclidean Algorithm 338 9.50
+- [ ] Say 100 327 9.56
+- [ ] Four Pics One Word 325 9.57
+- [ ] Graph Generator 324 9.58
+- [ ] Lexicographic Permutations 321 9.59
+- [ ] Sequence of Squares 318 9.61
+- [ ] Mul Two 316 9.62
+- [ ] Bezier Curves 314 9.63
+- [ ] Transitive Closure on Candy States 304 9.69
+- [ ] Suffix Array 298 9.72
+- [ ] Variable Length Code Unpack 292 9.76
+- [ ] Divide by Two 291 9.76
+- [ ] Information Entropy 288 9.78
+- [ ] Uphill Shooting 283 9.81
+- [ ] Introducing Regexps 277 9.85
+- [ ] Spaceship Weight Fraud 268 9.91
+- [ ] Dynamic Web Page 260 9.96
+- [ ] Copy Line 255 9.99
+- [ ] Binary Search in Array 242 10.08
+- [ ] Base-32 Encoding 241 10.09
+- [ ] Breadth First Search 237 10.12
+- [ ] Pawn Move Validator 236 10.13
+- [ ] Snake Arcade 230 10.17
+- [ ] Loops in Assembly 230 10.17
+- [ ] Easter Eggs 225 10.21
+- [ ] Dijkstra in the Network 221 10.24
+- [ ] Billiard Ball 219 10.25
+- [ ] Starving Priority Queue 217 10.27
+- [ ] Depth First Search 206 10.36
+- [ ] Modular Inverse 201 10.40
+- [ ] Topological Sorting 197 10.44
+- [ ] Safe Landing 195 10.46
+- [ ] Knapsack of Integers 191 10.49
+- [ ] Calculation of Pi 191 10.49
+- [ ] Bogosort 188 10.52
+- [ ] Combinations with Repetitions 185 10.55
+- [ ] Proper Bracket Sequences 183 10.57
+- [ ] Lucky Tickets 181 10.58
+- [ ] Query String Parameters 174 10.65
+- [ ] Enumerating Combinations 164 10.75
+- [ ] Color Cubes 159 10.81
+- [ ] Huffman Coding 156 10.84
+- [ ] Word Ladders 153 10.87
+- [ ] Chords of Music 150 10.91
+- [ ] Beam Balance and Masses 143 10.99
+- [ ] Matches Picking 143 10.99
+- [ ] Shannon-Fano Coding 137 11.06
+- [ ] Lucky Tickets Advanced 136 11.08
+- [ ] Necklace Count 136 11.08
+- [ ] Page Rank 135 11.09
+- [ ] RSA Cryptography 131 11.14
+- [ ] Caesar meets BF 120 11.29
+- [ ] Random Search Optimization 118 11.32
+- [ ] Employees Web App 116 11.35
+- [ ] Travelling Salesman 114 11.38
+- [ ] Convex Hull and Farmers 112 11.41
+- [ ] Public Key Cryptography Intro 108 11.47
+- [ ] Knapsack Backtracking 107 11.49
+- [ ] Rubik's Cube 107 11.49
+- [ ] Point in Polygon 106 11.51
+- [ ] Neighborhood of a String 106 11.51
+- [ ] Gangster Battles 104 11.54
+- [ ] Crossing the Road 99 11.62
+- [ ] Social Web Scraper 98 11.64
+- [ ] Prn Hex Str 98 11.64
+- [ ] Look and Say binary 97 11.66
+- [ ] Hamming Codes 94 11.71
+- [ ] Nim Game 94 11.71
+- [ ] Gradient Descent for SLE 88 11.83
+- [ ] Dancing Pairs 88 11.83
+- [ ] Emirp primE 86 11.87
+- [ ] Hard Life 84 11.91
+- [ ] Frodo and Black Riders 84 11.91
+- [ ] Fermat goes hacking RSA 82 11.95
+- [ ] Simple 3D Scene 81 11.97
+- [ ] Sliding Window Search 80 11.99
+- [ ] Fibonacci Randomizer 79 12.01
+- [ ] Travelling Salesman Inverted 78 12.03
+- [ ] Sick Travellers 76 12.08
+- [ ] Ground Zero 75 12.10
+- [ ] LZ77 decompression 75 12.10
+- [ ] Knight's Tour 70 12.22
+- [ ] Stream Cipher Breaking 67 12.29
+- [ ] Page Rank as Eigenvector 66 12.32
+- [ ] Maximum Flow 62 12.43
+- [ ] Algae Robot 61 12.45
+- [ ] Tic-Tac-Toe Minimax Algorithm 61 12.45
+- [ ] Ticket Puzzle 61 12.45
+- [ ] Colliding Balls 60 12.48
+- [ ] Simple 3D Scene (cont) 60 12.48
+- [ ] Suffix Array Advanced 60 12.48
+- [ ] Maxit Single-Player 55 12.63
+- [ ] Fizz Buzz in Asm 54 12.66
+- [ ] Prime Chains 53 12.69
+- [ ] Color Cubes Advanced 50 12.79
+- [ ] Clustering the Stars 50 12.79
+- [ ] BCD to Hex 46 12.94
+- [ ] Wandering Star 45 12.97
+- [ ] Maze of the Wumpus 41 13.13
+- [ ] Simple Game of Sticks 41 13.13
+- [ ] Connect Four 36 13.35
+- [ ] Neural Network Calculation 35 13.40
+- [ ] Cracking Linear Congruential Generator 33 13.50
+- [ ] Automated Landing 32 13.55
+- [ ] Rain Must Fall DE 31 13.60
+- [ ] Micro-Life SK 24 14.03
+- [ ] Personality Swap 20 14.34
+- [ ] Move-To-Front Transform 18 14.51
+- [ ] Introducing Scheme 17 14.60
+- [ ] Burrows-Wheeler Transform 15 14.81
+- [ ] Neural Network Training 14 14.92
+- [ ] Language Study 14 14.92
+- [ ] XWords 13 15.04
+- [ ] Klotski SK 12 15.17
+- [ ] Easter Eggs Advanced 11 15.31
+- [ ] Multiplicative Persistence Backtrace 8 15.81
+- [ ] Dice Black Jack 8 15.81
+- [ ] Bear Hunt 8 15.81
+- [ ] Hamurabi 7 16.01
+- [ ] Hashtable Implementation 7 16.01
+- [ ] Train Merge 7 16.01
+- [ ] Road Network Destruction 6 16.24
+- [ ] Transposing List of Lists 5 16.51
+- [ ] Train Merge Advanced 5 16.51
+- [ ] Shift Register Randomizer 4 16.83
+- [ ] Foxes and Geese 4 16.83
+- [ ] Maze Mapping Robot 3 17.22
+- [ ] Is the Earth Flat 3 17.22

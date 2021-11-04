@@ -1,0 +1,10 @@
+/home/mrrobot/Projects/rust-exercices/tools-cli/target/debug/deps/libstructopt_derive-67b6def4fa891feb.so: /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/lib.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/attrs.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/doc_comments.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/parse.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/spanned.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/ty.rs
+
+/home/mrrobot/Projects/rust-exercices/tools-cli/target/debug/deps/structopt_derive-67b6def4fa891feb.d: /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/lib.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/attrs.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/doc_comments.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/parse.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/spanned.rs /home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/ty.rs
+
+/home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/lib.rs:
+/home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/attrs.rs:
+/home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/doc_comments.rs:
+/home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/parse.rs:
+/home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/spanned.rs:
+/home/mrrobot/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/ty.rs:
